@@ -2,4 +2,4 @@ deployment:
   imageRepo: saigoud18/mongodb
   imageVersion: v1
 service:
-  type: ClusterIP  
+  type: ClusterIP
